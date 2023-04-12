@@ -1,0 +1,15 @@
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Projects\gamificationApp\gameApp\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
